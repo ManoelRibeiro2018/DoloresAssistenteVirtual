@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DPNabtVqU+2BaOnWTz+xvfcXsd0p6jWR15fUS9apYqh4dZyc2/BrJ+4fkLN+lG5snQB71KmD4Vh82mFJtTevsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\AssistenteDolores\\AssistenteDolores\\AssistenteDolores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.0\\microsoft.cognitiveservices.speech.1.24.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
